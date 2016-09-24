@@ -20,7 +20,7 @@ p {
   margin-bottom: 1em;
 }
 section {
-  margin-bottom: 2em;
+  margin-bottom: 2%;
   position: relative;
   padding: 70px 1em 1em;
   background: #E2F8FE;
@@ -70,7 +70,7 @@ footer {
     margin-bottom: 1.2em;
   }
   section {
-    width: 48%;
+    width: 49%;
     float: left;
   }
   section:nth-child(1){
